@@ -1,6 +1,301 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+file = "mods/ConnectorExtras-1.12.1+1.21.1.jar"
+hash = "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880"
 
+[[files]]
+file = "mods/GPUTape-1.20.6-1.21x-1.0.3.jar"
+hash = "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf"
+
+[[files]]
+file = "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+hash = "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64"
+
+[[files]]
+file = "mods/WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar"
+hash = "44b7acfdb675cbd442c42a37efee67a21979895961a60348cf61c7447de0ff31"
+
+[[files]]
+file = "mods/[Lambd的动态光源] lambdynamiclights-4.8.10+1.21.1.jar"
+hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
+
+[[files]]
+file = "mods/[Reese的钠视频界面] reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+hash = "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
+
+[[files]]
+file = "mods/[Xaero的世界地图] xaeroworldmap-neoforge-1.21.1-1.44.2.jar"
+hash = "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa"
+
+[[files]]
+file = "mods/[Xaero的小地图] xaerominimap-neoforge-1.21.1-26.4.2.jar"
+hash = "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+
+[[files]]
+file = "mods/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
+hash = "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
+
+[[files]]
+file = "mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.0.1.jar"
+hash = "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"
+
+[[files]]
+file = "mods/[信雅互联] connector-2.0.0-beta.17+1.21.1-full.jar"
+hash = "5a4ad10e57b8b1690832d9b77fc488fbe5e7cf41ac5a90d9f569bd78fbea25be"
+
+[[files]]
+file = "mods/[创世神] worldedit-mod-7.3.8.jar"
+hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+
+[[files]]
+file = "mods/[动态 FPS] dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
+
+[[files]]
+file = "mods/[双开门] doubledoors-1.21.1-7.2.jar"
+hash = "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
+
+[[files]]
+file = "mods/[实体渲染机制优化] entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+
+[[files]]
+file = "mods/[崩溃优化] notenoughcrashes-neoforge-4.4.9+1.21.1.jar"
+hash = "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f"
+
+[[files]]
+file = "mods/[崩溃助手] CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+hash = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
+
+[[files]]
+file = "mods/[更高级联机设置] mcwifipnp-1.9.0-1.21-neoforge.jar"
+hash = "e726f0ca3c76db428fcbfa46c6830451886a9cff6539318a38d723ec9460bcc3"
+
+[[files]]
+file = "mods/[机械动力] create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "mods/[机械动力：伪装方块+] copycats-3.0.6+mc.1.21.1-neoforge.jar"
+hash = "9c8b388d2fc3a1eef27ec52b88868962074163ce830f247889250453108c0b5f"
+
+[[files]]
+file = "mods/[机械动力：内饰] interiors-1.21.1-neoforge-0.6.1.jar"
+hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+
+[[files]]
+file = "mods/[机械动力：列车控制] create_train_control-1.1-SNAPSHOT.jar"
+hash = "e3e8ad2945d6e958816294fe0554caa9121a77d3e1afbbc57d20998a47a6fa69"
+
+[[files]]
+file = "mods/[机械动力：动力加载器] create_power_loader-2.0.5-mc1.21.1.jar"
+hash = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
+
+[[files]]
+file = "mods/[机械动力：又在幻想了] create_fantasizing-1.21.1-1.2.0-b3.jar"
+hash = "1fdf90fdbe9d6dfab24d71793352a0b1c5af2eba0c88422710f5418ced6d09a5"
+
+[[files]]
+file = "mods/[机械动力：无人机物流] create_mobile_packages-1.21.1-0.7.7.jar"
+hash = "353bd6cd1e75f9e85241fb4e7147153d83a983569cb67ca9a6cc4d3fe2da7a80"
+
+[[files]]
+file = "mods/[机械动力：流体物流] create_factory_logistics-1.21.1-1.6.0-all.jar"
+hash = "872283f392d4d2b1fd7a6cf617a8e9baeac1786cbb7b39d234e8d367adb3b5b7"
+
+[[files]]
+file = "mods/[机械动力：航空学] create-aeronautics-bundled-1.21.1-1.3.1.jar"
+hash = "b531dbe1081ee354f6e47ba4e0443b9caa648dfb8c82013a591a20836245bd84"
+
+[[files]]
+file = "mods/[机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-8.3.12-NeoForge.jar"
+hash = "b933ce29aa412ac435ea89f45e29498b56da4dcad82f5502b6626050826fe1ee"
+
+[[files]]
+file = "mods/[机械动力：超级管道] create_hypertube-0.6.0-NEOFORGE.jar"
+hash = "7bdb8979c7ff7d3b29f7a23771b6ae4870a6dcb7ce2e4a3214fdd6059aacace8"
+
+[[files]]
+file = "mods/[机械动力：铁路导航] createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar"
+hash = "336536a181faf6db7f756393248e786382fdd0c1c2760ff2dfc4b265859321b7"
+
+[[files]]
+file = "mods/[玉 🔍] Jade-1.21.1-NeoForge-15.10.6.jar"
+hash = "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
+
+[[files]]
+file = "mods/[现代化 UI] ModernUI-NeoForge-1.21.1-3.13.0.1-universal.jar"
+hash = "258623778012daad6fdd8793add3324b970df62a07c477697c43fe85deef1db6"
+
+[[files]]
+file = "mods/[现代化修复] modernfix-neoforge-5.27.20+mc1.21.1.jar"
+hash = "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
+
+[[files]]
+file = "mods/[简单备份] SimpleBackups-1.21-4.0.30.jar"
+hash = "0c322781b3c559f7d2c62ac87eb9d7ce459f3f3b5ab771a8794d009b42c729ec"
+
+[[files]]
+file = "mods/[精妙核心] sophisticatedcore-1.21.1-1.4.89.2291.jar"
+hash = "42b33df38183c73bf19bbc2031ee1f95fe44aa300ad62f016d3676b10e9f2c1d"
+
+[[files]]
+file = "mods/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
+hash = "ece652898740ae68ce3c0d5f29606e0616f08360bfd429e380a137091909929d"
+
+[[files]]
+file = "mods/[自动汉化更新] I18nUpdateMod-3.7.0-all.jar"
+hash = "66fc7f6debca5bfe6d7c6aa392f6e23a712dc018ae71cbb6e0b214ff6a28142d"
+
+[[files]]
+file = "mods/[输入法冲突修复] IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar"
+hash = "08c5581bda0ab0fbfdbb10c51102685b403f64b0e712517c4b2d918b2c83cea3"
+
+[[files]]
+file = "mods/[连锁破坏] ftb-ultimine-neoforge-2101.1.15.jar"
+hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
+
+[[files]]
+file = "mods/[鈇] flerovium-neoforge-1.21.1-1.1.2-all.jar"
+hash = "2274b5c3e66cda6958b17a968ef8e6ef8710ff8a0a8bb99050fb5a167ba07928"
+
+[[files]]
+file = "mods/[钠 · 扩展] sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
+hash = "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
+
+[[files]]
+file = "mods/[钠] sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar"
+hash = "72eb00f2a0bd9d21e9b7b0e4abc8f4a399287fc0ce5dced75968a3e2461e8919"
+
+[[files]]
+file = "mods/[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/[锂] lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+
+[[files]]
+file = "mods/[预生成区块] Chunky-NeoForge-1.4.23.jar"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[[files]]
+file = "mods/[鼠标手势] MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
+file = "mods/alltheleaks-1.1.12+1.21.1-neoforge.jar"
+hash = "ca64ec07c29cadb0e7703e993fbaad26029ebc4203626d2638aefe989e5be74f"
+
+[[files]]
+file = "mods/architectury-13.0.11-neoforge.jar"
+hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
+
+[[files]]
+file = "mods/bobby_reneoforged-5.2.4-0.4+mc1.21.jar"
+hash = "0e8738cf8355fe3b9211595c5427b0248a55edc13b83dcc9c5e689c3bd0752ee"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/collective-1.21.1-8.39.jar"
+hash = "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
+
+[[files]]
+file = "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar"
+hash = "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f"
+
+[[files]]
+file = "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar"
+hash = "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8"
+
+[[files]]
+file = "mods/create_bb-1.0.7-1.21.1-Neoforge.jar"
+hash = "68833088a56a2e160df7b23ce9703cde0da974b35ba41f5d86bbb758acd1ec79"
+
+[[files]]
+file = "mods/createbetterfps-1.21.1-1.1.4.jar"
+hash = "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+
+[[files]]
+file = "mods/createimp-1.4.1.jar"
+hash = "54e448014e8950c614f5359ff8673418c70c43eb37e07e27b6c9f604b7cf660c"
+
+[[files]]
+file = "mods/createultimine-1.21.1-neoforge-1.3.2.jar"
+hash = "96feb5f37da16dd41e2f547576da72941c664aa5bae3a6618621404c783522fb"
+
+[[files]]
+file = "mods/dragonlib-neoforge-1.21.1-beta-3.0.28.jar"
+hash = "ba127947220504d1410716e422ef6a9a387d818a922ad5fdb3be044f9f7556f7"
+
+[[files]]
+file = "mods/escalated-1.3.2+mc.1.21.1.jar"
+hash = "c25ee54ebec01dcf5d471853f862391e3636c185daa88dba519d66326d60b1be"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"
+hash = "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52"
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar"
+hash = "d8497caea34b93eed94f3afb4eb28541712d32b8226ef82bec0346bae392ac38"
+
+[[files]]
+file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
+hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
+
+[[files]]
+file = "mods/freecam-neoforge-1.3.0+mc1.21.jar"
+hash = "09b865a3987a0f1c87bcc9430550ccc4107729f29bff53a1cd5ab1e9c3d82376"
+
+[[files]]
+file = "mods/ftb-library-neoforge-2101.1.35.jar"
+hash = "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d"
+
+[[files]]
+file = "mods/fullbrightnesstoggle-1.21.1-4.4.jar"
+hash = "395ae5d07cb993f54c573d5ce87e13a2c1ae0b96db1b4b56bc395b690c25f07f"
+
+[[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.jar"
+hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "mods/libIPN-neoforge-1.21.1-6.6.3.jar"
+hash = "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
+
+[[files]]
+file = "mods/no-bat-1.0.jar"
+hash = "77794ce989061acd73ef3af2e00a0668e2097b971115709e07384e340d451e13"
+
+[[files]]
+file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
+hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.5.jar"
+hash = "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+
+[[files]]
+file = "mods/smart_bounds-1.0.0.jar"
+hash = "0240f90b62401ef6edf30714cb0eefbbc104be629a9e595383ddf3ac898718b5"
+
+[[files]]
+file = "mods/vanillin-neoforge-1.21.1-1.1.3.jar"
+hash = "4ea3fa9e7c33abaf9dc135e88b4c07992c6e8f03d61c828b2c6cdfa6be32957c"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+
+[[files]]
+file = "mods/zoomify-2.15.2+1.21.1.jar"
+hash = "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00"
