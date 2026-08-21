@@ -1,0 +1,9 @@
+name = "Create Hypertube"
+filename = "[机械动力：超级管道] create_hypertube-0.6.0-NEOFORGE.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "8405fb7f8bf7fff5811c29e8ed14acdea45ddc9487caec2c24ed5e7db4141b60e41b7a937645330180c74226bbb6b30359130e23929d53db1367be75c00585a9"

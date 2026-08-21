@@ -1,0 +1,9 @@
+name = "Create: Copycats+"
+filename = "[机械动力：伪装方块+] copycats-3.0.6+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/DVQFhrV3/copycats-3.0.6%2Bmc.1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "40c7b0b7ab7e9e532c5760d89d73594c9920aac0daefe537ed5a89a5c11712f08ea28093a5452baaf77f2c7620bb566ecc86e52883236ee01f29f7c9e6c91c30"
