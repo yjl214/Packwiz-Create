@@ -7,3 +7,5 @@
 # Exclude sync scripts
 /*.py
 /*.bat
+
+# Exclude pages files
