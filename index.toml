@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e1a3fa7fa574995eef5bfdbba32e95e28b663c81b310b6d64b8299d811bc5268"
+hash = "ee5b1d9a9de39f718d79e835315ba2d10e7883a87ed3268327a8a19b493eaf2d"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "cd2ef36dd299d4bd5231e42e3b208d370892ce8ab7ec1b8a97ea21b279b03917"
+hash = "47fd175e9824dcfe09f6859018b18bc4b7f1e72a013e38ea36bf16469ac9af15"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroworldmap.pw.toml"
-hash = "8e8ad373660adc462fa51b6f6c52fdb37a2f7c5bf6cc01475b8576774e331c94"
+hash = "6d0ff7d33f92c15aae9391cf1849a4448777d132ba00dcca7a164a595fe9308d"
 metafile = true
 
 [[files]]

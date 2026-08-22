@@ -1,0 +1,9 @@
+name = "Create Improve"
+filename = "createimp-1.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3xu2jXe8/versions/LzKSSB7X/createimp-1.4.1.jar"
+hash-format = "sha512"
+hash = "de095c29cb7a3cbe0c717ff43449d8a465f167c6003f0b1a531bdbef297c3ac139a9b346e80a516e0a6ea95a05eb074a577554d343047578aa00420df0fca420"
