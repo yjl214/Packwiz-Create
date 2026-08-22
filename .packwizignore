@@ -5,5 +5,5 @@
 /README.md
 
 # Exclude sync scripts
-/gen_index.py
-/sync_mods.bat
+/*.py
+/*.bat
