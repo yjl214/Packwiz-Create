@@ -4,6 +4,6 @@ side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/UT2M39wf/versions/DVQFhrV3/copycats-3.0.6%2Bmc.1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/8cABiKTp/copycats-3.0.7%2Bmc.1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "40c7b0b7ab7e9e532c5760d89d73594c9920aac0daefe537ed5a89a5c11712f08ea28093a5452baaf77f2c7620bb566ecc86e52883236ee01f29f7c9e6c91c30"
+hash = "72d3d28646a29b9de6e29fccac2591321198dd8ad1a82f290cb39ff4220114fd1d3059b5730be9875ef9c79b2e2179a2e7082dfcc5934e405bdf0a6b0f1cd015"

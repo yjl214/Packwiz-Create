@@ -1,9 +1,0 @@
-name = "No Bat"
-filename = "no-bat-1.0.jar"
-side = "both"
-
-[download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/w5htmJLB/versions/eysCeuUW/no-bat-1.0.jar"
-hash-format = "sha512"
-hash = "8db7999f21638c5271248e8b40c8796eb293b1fa7b4ae7258000548d1832b5bb2febd5a0eeb627ad00a6fb75787077735ff73ce8a6423c84b89f2a4b5ce566ec"
